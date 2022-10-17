@@ -1,0 +1,4 @@
+name: KillLog
+version: '${project.version}'
+main: net.teamuni.killlog.KillLog
+api-version: 1.18
